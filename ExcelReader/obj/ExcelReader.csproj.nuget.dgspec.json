@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A240990\\source\\repos\\ExcelReader\\ExcelReader\\ExcelReader.csproj": {}
+    "C:\\Users\\A240990\\source\\repos\\ReadAndUpdateExcel\\ExcelReader\\ExcelReader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A240990\\source\\repos\\ExcelReader\\ExcelReader\\ExcelReader.csproj": {
+    "C:\\Users\\A240990\\source\\repos\\ReadAndUpdateExcel\\ExcelReader\\ExcelReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A240990\\source\\repos\\ExcelReader\\ExcelReader\\ExcelReader.csproj",
+        "projectUniqueName": "C:\\Users\\A240990\\source\\repos\\ReadAndUpdateExcel\\ExcelReader\\ExcelReader.csproj",
         "projectName": "ExcelReader",
-        "projectPath": "C:\\Users\\A240990\\source\\repos\\ExcelReader\\ExcelReader\\ExcelReader.csproj",
+        "projectPath": "C:\\Users\\A240990\\source\\repos\\ReadAndUpdateExcel\\ExcelReader\\ExcelReader.csproj",
         "packagesPath": "C:\\Users\\A240990\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A240990\\source\\repos\\ExcelReader\\ExcelReader\\obj\\",
+        "outputPath": "C:\\Users\\A240990\\source\\repos\\ReadAndUpdateExcel\\ExcelReader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -49,6 +49,22 @@
               "target": "Package",
               "version": "[6.0.4, )"
             },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.7.29, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
@@ -56,6 +72,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
             },
             "System.Net.Http": {
               "target": "Package",
